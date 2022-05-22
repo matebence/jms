@@ -1,4 +1,4 @@
-## Java messeaging service (JMS)
+## Java messaging service (JMS)
 
 - Messaging is software to software communication technique
 - Most used queue systems are
